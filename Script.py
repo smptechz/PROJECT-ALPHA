@@ -298,7 +298,7 @@ Name - {}
 ©{message.chat.title}</b>
 """
 
-    CUSTOM_FILE_CAPTION = """<code>📂Fɪʟᴇɴᴀᴍᴇ : {file_name} </code><b>
+    CUSTOM_FILE_CAPTION = """📝 File Name : <code> {file_name}</code>  <b>
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 ▫️<a href=https://t.me/popcorn_links> MOVIES ZONE </a>
