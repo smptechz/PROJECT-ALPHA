@@ -291,14 +291,14 @@ Name - {}
 
 🌎 ᴄᴏᴜɴᴛʀʏ : {countries}
 
-⏰ DURATION: {runtime} Minutes
+⏰ DURATION: {runtime} Minutes 
 
 👤 Requested By: {message.from_user.mention}
 
 ©{message.chat.title}</b>
 """
 
-    CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    CUSTOM_FILE_CAPTION = """<code>📂Fɪʟᴇɴᴀᴍᴇ : {file_name} </code><b>
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 ▫️<a href=https://t.me/popcorn_links> MOVIES ZONE </a>
