@@ -282,12 +282,17 @@ Name - {}
 <b>🔖 ᴛɪᴛʟᴇ :<a href={url}>{title}</a>
 
 🎭 ɢᴇɴʀᴇs : {genres}
+
 🎖 ʀᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a> / 10 (ʙᴀsᴇᴅ ᴏɴ {votes} ᴜsᴇʀ ʀᴀᴛɪɴɢ.)
 
 📆 ʏᴇᴀʀ : {release_date}
+
 🗞 ʟᴀɴɢᴜᴀɢᴇ : {languages}
+
 🌎 ᴄᴏᴜɴᴛʀʏ : {countries}
-📖 sᴛᴏʀʏ : {plot} 
+
+⏰ DURATION: {runtime} Minutes
+
 👤 Requested By: {message.from_user.mention}
 
 ©{message.chat.title}</b>
@@ -296,8 +301,8 @@ Name - {}
     CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/popcorn_links> MOVIES ZONE </a>▫️
-▫️<a href=https://t.me/POPCORN_GRP> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>▫️
+▫️<a href=https://t.me/popcorn_links> MOVIES ZONE </a>
+▫️<a href=https://t.me/POPCORN_GRP> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     RESTART_TXT = """
