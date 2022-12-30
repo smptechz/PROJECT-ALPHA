@@ -321,7 +321,13 @@ Name - {}
 
     TOP_ALRT_MSG = """♻️ ᴄʜᴇᴄᴋɪɴɢ ꜰɪʟᴇ ᴏɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ... ♻️"""
 
-    MVE_NT_FND = """<b>Not available Right Now ✷Possible Causes : 🤔  ۝Not released yet ۝Unwanted texts in Msgs ۝Asking theatre prints ۝Not in my Database </b> """
+    MVE_NT_FND = """<b>Not available Right Now
+
+✷Possible Causes : 🤔  
+۝Not released yet 
+۝Unwanted texts in Msgs 
+۝Asking theatre prints 
+۝Not in my Database </b> """
 
     NORSLTS = """★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
 𝗜𝗗 <b>: {}</b>
