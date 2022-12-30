@@ -1205,6 +1205,7 @@ async def advantage_spell_chok(client, msg):
         k = await msg.reply(script.I_CUD_NT.format(reqstr.mention))
         await asyncio.sleep(8)
         await k.delete()
+        await message.delete()
         return
     SPELL_CHECK[msg.id] = movielist
     btn = [[
