@@ -321,7 +321,7 @@ Name - {}
 
     TOP_ALRT_MSG = """♻️ ᴄʜᴇᴄᴋɪɴɢ ꜰɪʟᴇ ᴏɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ... ♻️"""
 
-    MVE_NT_FND = """<b>Not available Right Now
+    I_CUDNT = """<b>Not available Right Now
 
 ✷Possible Causes : 🤔  
 ۝Not released yet 
@@ -335,7 +335,7 @@ Name - {}
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>
 © GYPZYTECHS"""
 
-    I_CUDNT = """𝑯𝑬𝑳𝑳𝑶 {} 𝑰 𝑪𝑶𝑼𝑳𝑫𝑵'𝑻 𝑭𝑰𝑵𝑫 𝑨𝑵𝒀 𝑴𝑶𝑽𝑰𝑬 𝑰𝑵 𝑻𝑯𝑨𝑻 𝑵𝑨𝑴𝑬 ."""
+    I_CUDNT5 = """𝑯𝑬𝑳𝑳𝑶 {} 𝑰 𝑪𝑶𝑼𝑳𝑫𝑵'𝑻 𝑭𝑰𝑵𝑫 𝑨𝑵𝒀 𝑴𝑶𝑽𝑰𝑬 𝑰𝑵 𝑻𝑯𝑨𝑻 𝑵𝑨𝑴𝑬 ."""
 
     I_CUD_NT = """𝑯𝑬𝑳𝑳𝑶 {} 𝑰 𝑪𝑶𝑼𝑳𝑫𝑵'𝑻 𝑭𝑰𝑵𝑫 𝑨𝑵𝒀𝑻𝑯𝑰𝑵𝑮 𝑹𝑬𝑳𝑨𝑻𝑬𝑫 𝑻𝑶 𝑻𝑯𝑨𝑻 . 𝑪𝑯𝑬𝑪𝑲 𝒀𝑶𝑼𝑹 𝑺𝑷𝑬𝑳𝑳𝑰𝑵𝑮."""
     
